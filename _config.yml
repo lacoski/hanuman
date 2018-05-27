@@ -1,8 +1,8 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: Lacoski
+description: Chào mừng bạn đến với blog của tôi
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+logo: assets/images/mylogo.jpg
 favicon: assets/images/favicon.png
 baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://lacoski.github.io" # the base hostname & protocol for your site
