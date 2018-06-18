@@ -25,7 +25,7 @@ Năm 2 đã từng thực tập vị trí Lập Trình Viên ASP.NET MVC 5 Backe
 
 Tới cuối năm 3 mình chuyển sang tìm hiểu về Linux và Network, và may mắn tới hè được nhận vào phòng hệ thống công ty [TECAPRO](http://tecapro.com.vn/).
 
-Tới cuối năm 4, mình muốn tập trung hơn vào storage nên chuyển công ty [MEDITECH](https://www.meditech.vn/) và loanh quanh tới hiện tại.
+Tới cuối năm 4, mình muốn tập trung hơn vào storage nên chuyển sang team [HOCCHUDONG](https://github.com/hocchudong) và loanh quanh tới hiện tại.
 
 ### Kỹ năng
 Vì trước cái gì mình cũng thích, gắp cái gì cũng đã vài cái nên mình có các skill như sau:
